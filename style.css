@@ -17,12 +17,11 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    transition: background 0.3s, color 0.3s;
     background-image: url('IMG-20251224-WA0010.jpg');
-    background-position: cover;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center center;
     background-size: cover;
+    transition: background 0.3s, color 0.3s;
 }
 
 body.dark {
