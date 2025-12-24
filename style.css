@@ -19,7 +19,7 @@ body {
     min-height: 100vh;
     background-image: url('IMG-20251224-WA0010.jpg');
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: center 25%;
     background-size: cover;
     transition: background 0.3s, color 0.3s;
 }
