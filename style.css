@@ -18,7 +18,7 @@ body {
     align-items: center;
     min-height: 100vh;
     transition: background 0.3s, color 0.3s;
-    bacground-image: url('IMG-20251224-WA0010.jpg');
+    background-image: url('IMG-20251224-WA0010.jpg');
 }
 
 body.dark {
